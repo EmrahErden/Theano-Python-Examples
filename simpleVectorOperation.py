@@ -19,3 +19,4 @@ b=T.vector('b')
 out=a**2+b**2+2*a*b
 f=function([a,b],out)
 print f([0,1,2],[1,2,2])
+
